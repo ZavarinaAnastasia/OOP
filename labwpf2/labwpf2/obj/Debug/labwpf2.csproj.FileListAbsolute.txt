@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\labwpf2\labwpf2\bin\Debug\labwpf2.exe.config
+C:\Users\ASUS\source\repos\labwpf2\labwpf2\bin\Debug\labwpf2.exe
+C:\Users\ASUS\source\repos\labwpf2\labwpf2\bin\Debug\labwpf2.pdb
+C:\Users\ASUS\source\repos\labwpf2\labwpf2\obj\Debug\labwpf2.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\labwpf2\labwpf2\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\source\repos\labwpf2\labwpf2\obj\Debug\App.g.cs
+C:\Users\ASUS\source\repos\labwpf2\labwpf2\obj\Debug\labwpf2_MarkupCompile.cache
+C:\Users\ASUS\source\repos\labwpf2\labwpf2\obj\Debug\labwpf2_MarkupCompile.lref
+C:\Users\ASUS\source\repos\labwpf2\labwpf2\obj\Debug\MainWindow.baml
+C:\Users\ASUS\source\repos\labwpf2\labwpf2\obj\Debug\labwpf2.g.resources
+C:\Users\ASUS\source\repos\labwpf2\labwpf2\obj\Debug\labwpf2.Properties.Resources.resources
+C:\Users\ASUS\source\repos\labwpf2\labwpf2\obj\Debug\labwpf2.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\labwpf2\labwpf2\obj\Debug\labwpf2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\labwpf2\labwpf2\obj\Debug\labwpf2.exe
+C:\Users\ASUS\source\repos\labwpf2\labwpf2\obj\Debug\labwpf2.pdb
