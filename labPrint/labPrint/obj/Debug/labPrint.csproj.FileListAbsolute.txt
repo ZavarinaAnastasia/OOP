@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\labPrint\labPrint\bin\Debug\labPrint.exe.config
+C:\Users\ASUS\source\repos\labPrint\labPrint\bin\Debug\labPrint.exe
+C:\Users\ASUS\source\repos\labPrint\labPrint\bin\Debug\labPrint.pdb
+C:\Users\ASUS\source\repos\labPrint\labPrint\obj\Debug\labPrint.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\labPrint\labPrint\obj\Debug\labPrint.Form1.resources
+C:\Users\ASUS\source\repos\labPrint\labPrint\obj\Debug\labPrint.Properties.Resources.resources
+C:\Users\ASUS\source\repos\labPrint\labPrint\obj\Debug\labPrint.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\labPrint\labPrint\obj\Debug\labPrint.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\labPrint\labPrint\obj\Debug\labPrint.exe
+C:\Users\ASUS\source\repos\labPrint\labPrint\obj\Debug\labPrint.pdb
