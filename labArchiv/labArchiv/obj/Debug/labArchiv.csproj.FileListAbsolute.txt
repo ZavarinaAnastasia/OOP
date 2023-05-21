@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\labArchiv\labArchiv\bin\Debug\labArchiv.exe.config
+C:\Users\ASUS\source\repos\labArchiv\labArchiv\bin\Debug\labArchiv.exe
+C:\Users\ASUS\source\repos\labArchiv\labArchiv\bin\Debug\labArchiv.pdb
+C:\Users\ASUS\source\repos\labArchiv\labArchiv\bin\Debug\Ionic.Zip.dll
+C:\Users\ASUS\source\repos\labArchiv\labArchiv\obj\Debug\labArchiv.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\labArchiv\labArchiv\obj\Debug\labArchiv.Form1.resources
+C:\Users\ASUS\source\repos\labArchiv\labArchiv\obj\Debug\labArchiv.Properties.Resources.resources
+C:\Users\ASUS\source\repos\labArchiv\labArchiv\obj\Debug\labArchiv.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\labArchiv\labArchiv\obj\Debug\labArchiv.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\labArchiv\labArchiv\obj\Debug\labArchiv.csproj.CopyComplete
+C:\Users\ASUS\source\repos\labArchiv\labArchiv\obj\Debug\labArchiv.exe
+C:\Users\ASUS\source\repos\labArchiv\labArchiv\obj\Debug\labArchiv.pdb
